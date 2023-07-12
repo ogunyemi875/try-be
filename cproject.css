@@ -1,0 +1,102 @@
+#first{background-image: linear-gradient(rgba(0, 0, 0, 0.822),rgba(0,0,0,0.5)),url("images/cimages/nguyen-dang-hoang-nhu-Nne2TxFHPyQ-unsplash.jpg"
+ );
+background-position:0;
+ 
+background-size:cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+height: 500px;
+margin-left :-0.6%;
+margin-right: -0.6%;
+}
+
+
+
+
+.nav-list{
+background-color: rgb(182, 182, 248);
+margin-top: -1.5%;
+margin-left :-0.5%;
+margin-right: -1%;
+box-shadow: 0px 0px 10px;
+padding:1% 0;
+width: 100%;
+padding-bottom:-70%;
+position: fixed;
+display: flex;
+justify-content:flex-start;
+align-items:center;}
+
+.nav-item{list-style-type: none;
+    margin:1%;}
+
+    .nav-item a{text-decoration: none;
+    color:black}
+
+    
+     
+
+.word{text-indent: 20%;
+    text-align:justify;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    #contact a{text-decoration: none;
+        padding: 1%;
+        background-color: blue;
+        color: white;
+        width:6%;
+        border-radius: 3%;
+        box-sizing: content-box;
+        margin-left:20%;
+    }
+    
+#feature{background-image: none;
+text-align: center;
+font-family: monospace;}
+.arrange{ border:5px solid black;
+    list-style-type: none;
+    display: flex;
+    justify-items:flex-start;
+    align-items: center;
+    padding: 1%;}
+
+li img{width: 250px;
+height: 350px;
+padding: 1%;
+margin:0;}
+
+
+#man1{
+margin-left:8%;
+text-align:center;}
+#man2{margin-left:9%;text-align:center;}
+#man3{margin-left:9%;text-align:center;}
+
+
+
+button{text-decoration: none;
+    border:1px rgb(130, 130, 211) solid;
+    color:white;
+    padding: none;
+    background-color: rgb(49, 49, 128);}
+
+   
+    #About{background-image: none;
+        text-align: center;
+        font-family: monospace;}
+
+        #Account{text-align: center;
+        font-family:monospace;}
+        #user{padding:0.5%;
+        width: 30%;
+    border-radius:5%;}
+    #user{margin:1%}
+    #remb{margin-left:-62%;}
+
+#form a{text-decoration: none;
+text-align:inherit;
+color:black;
+padding:1%;
+border-radius: 5px dotted;
+background-color:darkgray;
+}
